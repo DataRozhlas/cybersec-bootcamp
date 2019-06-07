@@ -23,8 +23,7 @@
   + proč unikátní? ([credentials stuffing](https://www.troyhunt.com/password-reuse-credential-stuffing-and-another-1-billion-records-in-have-i-been-pwned/) - [viz. Šámal, Farský...](https://www.irozhlas.cz/zpravy-domov/hesla-unik-mailu-farsky-hamacek-samal-hackeri-prihlasovaci-udaje_1901150555_cib))
     + [hlídejte si záda](https://haveibeenpwned.com/)
   + 2FA
-    + záložní řešení ([backup kódy](https://support.google.com/accounts/answer/1187538?co=GENIE.Platform%3DAndroid&hl=en), [YubiKey](https://www.yubico.com/), SMS)
-    
+    + [1password](https://support.1password.com/one-time-passwords/), [backup kódy](https://support.google.com/accounts/answer/1187538?co=GENIE.Platform%3DAndroid&hl=en), [YubiKey](https://www.yubico.com/), [SMS (!)](https://en.wikipedia.org/wiki/SIM_swap_scam), [Google Authenticator](https://en.wikipedia.org/wiki/Google_Authenticator)
   + jediné řešení: [Password manager](https://thewirecutter.com/reviews/best-password-managers/)
     + my používáme [1password](https://1password.com/)
       + [našeptávač pro prohlížeč](https://support.1password.com/getting-started-1password-x/)
@@ -55,7 +54,6 @@
 ### Aktualizujte svá zařízení
   + všude jsou díry, ale ty [nové](https://en.wikipedia.org/wiki/Zero-day_(computing)) umí využít [málokdo](https://www.securityweek.com/uk-spy-agency-joins-nsa-sharing-zero-day-disclosure-process)
   + ty staré [vás kousnou do zadnice spíš](https://en.wikipedia.org/wiki/2019_Baltimore_ransomware_attack)
-
 
 ### Další čtení
 [A complete guide to Internet privacy](https://protonmail.com/blog/internet-privacy/)  
