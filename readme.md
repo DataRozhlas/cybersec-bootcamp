@@ -60,4 +60,5 @@
 [A complete guide to Internet privacy](https://protonmail.com/blog/internet-privacy/)  
 [EFF Surveillance Self-Defense](https://ssd.eff.org/en)  
 [How effective is basic account hygiene at preventing hijacking](https://security.googleblog.com/2019/05/new-research-how-effective-is-basic.html)  
-[Nothing to Hide - The documentary about surveillance and you](https://vimeo.com/189016018)  
+[Nothing to Hide - The documentary about surveillance and you](https://vimeo.com/189016018) 
+[Citizenfour (Snowden)](https://www.youtube.com/watch?v=o3uAAzQheRM) 
