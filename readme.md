@@ -54,3 +54,10 @@
 ### Aktualizujte svá zařízení
   + všude jsou díry, ale ty [nové](https://en.wikipedia.org/wiki/Zero-day_(computing)) umí využít [málokdo](https://www.securityweek.com/uk-spy-agency-joins-nsa-sharing-zero-day-disclosure-process)
   + ty staré [vás kousnou do zadnice spíš](https://en.wikipedia.org/wiki/2019_Baltimore_ransomware_attack)
+
+
+### Další čtení
+[A complete guide to Internet privacy](https://protonmail.com/blog/internet-privacy/)  
+[EFF Surveillance Self-Defense](https://ssd.eff.org/en)  
+[How effective is basic account hygiene at preventing hijacking](https://security.googleblog.com/2019/05/new-research-how-effective-is-basic.html)  
+[Nothing to Hide - The documentary about surveillance and you](https://vimeo.com/189016018)  
