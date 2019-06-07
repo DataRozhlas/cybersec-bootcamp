@@ -18,6 +18,7 @@
 
 ### Hesla
 + parametry (ne)bezpečného hesla ([víme díky únikům](https://www.troyhunt.com/86-of-passwords-are-terrible-and-other-statistics/))
+  + [otestujte](https://haveibeenpwned.com/Passwords) svoje oblíbené (jo, je to [bezpečné](https://www.troyhunt.com/ive-just-launched-pwned-passwords-version-2/#cloudflareprivacyandkanonymity))
   + [jak vytvořit heslo?](https://xkcd.com/936/)
   + proč unikátní? ([credentials stuffing](https://www.troyhunt.com/password-reuse-credential-stuffing-and-another-1-billion-records-in-have-i-been-pwned/) - [viz. Šámal, Farský...](https://www.irozhlas.cz/zpravy-domov/hesla-unik-mailu-farsky-hamacek-samal-hackeri-prihlasovaci-udaje_1901150555_cib))
     + [hlídejte si záda](https://haveibeenpwned.com/)
@@ -60,5 +61,5 @@
 [A complete guide to Internet privacy](https://protonmail.com/blog/internet-privacy/)  
 [EFF Surveillance Self-Defense](https://ssd.eff.org/en)  
 [How effective is basic account hygiene at preventing hijacking](https://security.googleblog.com/2019/05/new-research-how-effective-is-basic.html)  
-[Nothing to Hide - The documentary about surveillance and you](https://vimeo.com/189016018) 
+[Nothing to Hide - The documentary about surveillance and you](https://vimeo.com/189016018)  
 [Citizenfour (Snowden)](https://www.youtube.com/watch?v=o3uAAzQheRM) 
